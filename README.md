@@ -1,5 +1,7 @@
 ## 3D Slicer Survey Extension
 
+![Alt text](Screenshot1.png)
+
 **This documentation will cover the methods of installing the module, creating, taking, and saving surveys using this extension.**
 
 ---
